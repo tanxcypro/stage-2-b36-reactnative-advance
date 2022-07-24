@@ -9,6 +9,12 @@
   },
   "dependencies": {
     "@expo-google-fonts/balsamiq-sans": "^0.2.0",
+<<<<<<< Updated upstream
+=======
+    "@expo/vector-icons": "^13.0.0",
+    "@react-navigation/bottom-tabs": "^6.3.2",
+    "@react-navigation/material-bottom-tabs": "^6.2.2",
+>>>>>>> Stashed changes
     "@react-navigation/native": "^6.0.11",
     "@react-navigation/stack": "^6.2.2",
     "expo": "~42.0.1",
@@ -19,9 +25,15 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+<<<<<<< Updated upstream
+=======
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-paper": "^4.12.3",
+>>>>>>> Stashed changes
     "react-native-safe-area-context": "3.2.0",
     "react-native-screens": "~3.4.0",
     "react-native-svg": "12.1.1",
+    "react-native-vector-icons": "^9.2.0",
     "react-native-web": "~0.13.12",
     "styled-components": "^5.3.0",
     "styled-system": "^5.1.5",
